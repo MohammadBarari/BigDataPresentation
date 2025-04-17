@@ -1,0 +1,502 @@
+[
+    {
+        "productName": "Keyboard",
+        "quantity": 3,
+        "saleDate": "2023-10-26"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 5,
+        "saleDate": "2023-10-31"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 9,
+        "saleDate": "2023-10-14"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 8,
+        "saleDate": "2023-07-09"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 8,
+        "saleDate": "2023-05-21"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 5,
+        "saleDate": "2023-10-19"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 1,
+        "saleDate": "2023-10-28"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 8,
+        "saleDate": "2023-09-16"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 4,
+        "saleDate": "2023-09-08"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 3,
+        "saleDate": "2023-05-11"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 9,
+        "saleDate": "2023-05-25"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 5,
+        "saleDate": "2023-05-19"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 8,
+        "saleDate": "2023-06-17"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 9,
+        "saleDate": "2023-10-29"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 1,
+        "saleDate": "2023-03-22"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 4,
+        "saleDate": "2023-06-01"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 2,
+        "saleDate": "2023-09-06"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 10,
+        "saleDate": "2023-09-30"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 1,
+        "saleDate": "2023-01-08"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 5,
+        "saleDate": "2023-01-16"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 9,
+        "saleDate": "2023-06-21"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 5,
+        "saleDate": "2023-09-22"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 4,
+        "saleDate": "2023-06-18"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 5,
+        "saleDate": "2023-12-01"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 1,
+        "saleDate": "2023-10-03"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 1,
+        "saleDate": "2023-12-13"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 1,
+        "saleDate": "2023-06-22"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 9,
+        "saleDate": "2023-07-25"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 6,
+        "saleDate": "2023-01-25"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 2,
+        "saleDate": "2023-07-01"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 4,
+        "saleDate": "2023-11-10"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 2,
+        "saleDate": "2023-12-04"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 5,
+        "saleDate": "2023-01-20"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 1,
+        "saleDate": "2023-02-23"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 4,
+        "saleDate": "2023-06-29"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 10,
+        "saleDate": "2023-02-09"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 10,
+        "saleDate": "2023-10-18"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 4,
+        "saleDate": "2023-12-31"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 6,
+        "saleDate": "2023-02-17"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 3,
+        "saleDate": "2023-08-31"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 6,
+        "saleDate": "2023-07-24"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 9,
+        "saleDate": "2023-11-01"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 6,
+        "saleDate": "2023-10-05"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 5,
+        "saleDate": "2023-09-28"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 8,
+        "saleDate": "2023-05-24"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 6,
+        "saleDate": "2023-10-03"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 2,
+        "saleDate": "2023-08-20"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 3,
+        "saleDate": "2023-10-25"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 6,
+        "saleDate": "2023-04-10"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 6,
+        "saleDate": "2023-01-26"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 6,
+        "saleDate": "2023-03-18"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 10,
+        "saleDate": "2023-09-18"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 5,
+        "saleDate": "2023-06-21"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 7,
+        "saleDate": "2023-04-17"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 6,
+        "saleDate": "2023-06-28"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 6,
+        "saleDate": "2023-08-07"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 10,
+        "saleDate": "2023-12-17"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 4,
+        "saleDate": "2023-05-16"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 7,
+        "saleDate": "2023-01-25"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 7,
+        "saleDate": "2023-08-05"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 10,
+        "saleDate": "2023-11-30"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 2,
+        "saleDate": "2023-11-16"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 3,
+        "saleDate": "2023-10-30"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 1,
+        "saleDate": "2023-02-07"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 10,
+        "saleDate": "2023-01-28"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 3,
+        "saleDate": "2023-12-26"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 6,
+        "saleDate": "2023-06-12"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 5,
+        "saleDate": "2023-11-11"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 1,
+        "saleDate": "2023-02-12"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 7,
+        "saleDate": "2023-05-05"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 2,
+        "saleDate": "2023-08-15"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 4,
+        "saleDate": "2023-08-06"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 2,
+        "saleDate": "2023-02-20"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 6,
+        "saleDate": "2023-02-04"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 3,
+        "saleDate": "2023-12-21"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 7,
+        "saleDate": "2023-11-10"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 8,
+        "saleDate": "2023-06-27"
+    },
+    {
+        "productName": "Phone",
+        "quantity": 7,
+        "saleDate": "2023-03-09"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 8,
+        "saleDate": "2023-06-24"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 2,
+        "saleDate": "2023-02-16"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 1,
+        "saleDate": "2023-08-20"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 1,
+        "saleDate": "2023-03-27"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 9,
+        "saleDate": "2023-07-22"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 8,
+        "saleDate": "2023-09-29"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 5,
+        "saleDate": "2023-05-20"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 6,
+        "saleDate": "2023-08-08"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 9,
+        "saleDate": "2023-11-01"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 7,
+        "saleDate": "2023-10-13"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 5,
+        "saleDate": "2023-10-15"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 10,
+        "saleDate": "2023-08-19"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 9,
+        "saleDate": "2023-03-05"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 7,
+        "saleDate": "2023-12-16"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 4,
+        "saleDate": "2023-12-26"
+    },
+    {
+        "productName": "Headphones",
+        "quantity": 6,
+        "saleDate": "2023-01-20"
+    },
+    {
+        "productName": "Monitor",
+        "quantity": 6,
+        "saleDate": "2023-08-29"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 5,
+        "saleDate": "2023-06-18"
+    },
+    {
+        "productName": "Mouse",
+        "quantity": 10,
+        "saleDate": "2023-01-08"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 7,
+        "saleDate": "2023-04-21"
+    },
+    {
+        "productName": "Keyboard",
+        "quantity": 1,
+        "saleDate": "2023-09-06"
+    },
+    {
+        "productName": "Laptop",
+        "quantity": 5,
+        "saleDate": "2023-07-17"
+    }
+]
